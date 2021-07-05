@@ -1,0 +1,14 @@
+{
+  "aplikasi": [
+    {
+      "product": "APP_KASIR",
+      "version": "2.5",
+      "file_download": "app_kasir_2.5.zip",
+      "file_update": "app_kasir_update_2.5.zip",
+      "releaseDate": "2021-02-02",
+      "updateDate": "2021-05-15",
+      "caption": "Fix Tambah Pelanggan & Penambahan Notif Update",
+      "demo": true
+    }
+	]
+}

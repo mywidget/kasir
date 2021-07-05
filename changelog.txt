@@ -1,0 +1,43 @@
+#
+Aplikasi "POS" Percetakan merupakan aplikasi yang di khususkan bagi percetakan untuk mempermudah pembuatan invoice dan juga rekap pengeluaran dan uang masuk
+
+Role
++ Admin
++ Owner
++ Keuangan
++ Kasir
+
+Menu
++ Data Order
++ Master Data
+-- Produk
+-- Jenis
+-- Bahan
+-- Satuan Produk
++ Pembukuan
+-- Piutang
+-- Omset Global
+-- Omset Produk
+-- Uang Masuk
+-- Pengeluaran
+-- Data Rekap
++ Konsumen
++ Profil
+-- Pengguna
++ Pengaturan
+-- Aplikasi
+---- Nama
+---- Logo
+---- Stamp
+---- Warna 
+-- Menu
++ Backup DB
+
+#05:11 5/6/2021
+
++ Cek Update
+
+#14:00 5/15/2021
+Fix tambah pelanggan
+Add Notifikasi Update
+Fix bug update controller
